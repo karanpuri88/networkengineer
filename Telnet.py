@@ -1,4 +1,4 @@
-# Telnet to router & execute any Command 
+# Telnet to any Router & Execute any Command 
 
 #!/usr/bin/env python
 
