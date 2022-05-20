@@ -1,5 +1,7 @@
-# Take backup of multiple devices
+# Take backup of multiple devices which includes SDWAN & NON SDWAN Routers
+
 #!/usr/bin/env python
+
 import netmiko
 import os
 
