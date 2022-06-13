@@ -2,7 +2,7 @@
 
 **Data_plane.py** >>> This script is use to perform Packet Trace to check whether router is dropping packets at QFP
 
-**Take_backup_sdwan_non-sdwan.py** >>> Script to perform backup of SDWAN & NON SDWAN routers
+**Take_backup_sdwan_non-sdwan.py** >>> Script to perform backup of SDWAN & Non SDWAN routers
 
 **Telnet.py** >>> Script to perform Telnet to routers
 
