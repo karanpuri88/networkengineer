@@ -2,10 +2,10 @@
 
 **Data_plane.py** >>> This script is use to perform Packet Trace to check whether router is dropping packets at QFP
 
-**Take_backup_sdwan_non-sdwan.py** >>> Script to perform backup of SDWAN & Non SDWAN routers
+**Take_backup_sdwan_non-sdwan.py** >>> Script to identify SDWAN or Non SDWAN router & perform backup accordingly 
 
 **Telnet.py** >>> Script to perform Telnet to routers
 
-**Unzip_admin_tech.py** >>> Script to unzip all files recursively inside admin tech 
+**Unzip_admin_tech.py** >>> Script to unzip all files recursively for admin tech of sdwan vManage
 
 **vManage_Rest_Api.py** >> Script to perform API call to vManage
