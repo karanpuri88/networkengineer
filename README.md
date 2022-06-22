@@ -6,6 +6,6 @@
 
 **Telnet.py** >>> Script to perform Telnet to routers and sends CLI commands
 
-**Unzip_admin_tech.py** >>> Script to unzip all files recursively for admin tech of sdwan vManage
+**Unzip_admin_tech.py** >>> Script to unzip all files recursively for admin tech of Cisco sdwan vManage
 
-**vManage_Rest_Api.py** >> Script to perform API call to vManage
+**vManage_Rest_Api.py** >> Script to perform API call to Cisco sdwan vManage controller
