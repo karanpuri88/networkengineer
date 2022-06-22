@@ -4,7 +4,7 @@
 
 **Take_backup_sdwan_non-sdwan.py** >>> Script to identify SDWAN or Non SDWAN router & perform backup accordingly 
 
-**Telnet.py** >>> Script to perform Telnet to routers
+**Telnet.py** >>> Script to perform Telnet to routers and sends CLI commands
 
 **Unzip_admin_tech.py** >>> Script to unzip all files recursively for admin tech of sdwan vManage
 
