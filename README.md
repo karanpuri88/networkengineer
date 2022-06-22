@@ -12,7 +12,8 @@
 
 **vManage_Rest_Api.py** >>> Script to perform API call to Cisco sdwan vManage controller
 
-**About me**
 
-I'm a Network Engineer and very excited about finding new and creative ways to automate monitoring or troubleshooting or configuration of network..
+**About me**
+===========
+I'm a Network Engineer and very excited about finding creative ways to automate monitoring or troubleshooting or configuration of network devices..
 
