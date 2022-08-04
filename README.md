@@ -1,3 +1,5 @@
+**CLI_Config_push.py** >>> This script is use to configuration on multiple devices from a file
+
 **Count_BGP_Flaps.py** >>> This script is use to determine how many times BGP neighborship has flapped
 
 **Data_plane.py** >>> This script is use to perform Packet Trace to check whether router is dropping packets at QFP
