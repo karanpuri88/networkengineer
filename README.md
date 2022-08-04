@@ -1,4 +1,4 @@
-**CLI_Config_push.py** >>> This script is use to configuration on multiple devices from a file
+**CLI_Config_push.py** >>> This script is to configure multiple devices from a file
 
 **Count_BGP_Flaps.py** >>> This script is use to determine how many times BGP neighborship has flapped
 
